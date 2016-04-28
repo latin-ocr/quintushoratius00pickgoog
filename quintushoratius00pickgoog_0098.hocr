@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quintushoratius00pickgoog_0098.png"; bbox 0 0 413 656; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 96 66 180 76">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 96 66 180 76">
+     <span class='ocr_line' id='line_1_1' title="bbox 96 66 180 76; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 96 66 180 76; x_wconf 67' lang='grc' dir='ltr'>ιηιιοιιωοιι.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 62 433 210 467">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 62 433 210 467">
+     <span class='ocr_line' id='line_1_2' title="bbox 109 433 157 444; baseline -0.021 0"><span class='ocrx_word' id='word_1_2' title='bbox 109 433 136 444; x_wconf 65' lang='lat' dir='ltr'>&#39;om</span> <span class='ocrx_word' id='word_1_3' title='bbox 142 436 157 444; x_wconf 73' lang='grc' dir='ltr'>π.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 62 447 210 455; baseline 0 -1"><span class='ocrx_word' id='word_1_4' title='bbox 62 447 76 454; x_wconf 87' lang='grc' dir='ltr'>ιιι</span> <span class='ocrx_word' id='word_1_5' title='bbox 82 447 138 455; x_wconf 69' lang='lat' dir='ltr'>umm</span> <span class='ocrx_word' id='word_1_6' title='bbox 145 447 210 455; x_wconf 70' lang='lat' dir='ltr'>nvn-uu.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 80 458 194 467; baseline 0 -1"><span class='ocrx_word' id='word_1_7' title='bbox 80 458 122 466; x_wconf 62' lang='lat' dir='ltr'>romu</span> <span class='ocrx_word' id='word_1_8' title='bbox 127 459 194 467; x_wconf 66' lang='lat' dir='ltr'>mun-cun.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 49 471 218 490">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 49 471 218 490">
+     <span class='ocr_line' id='line_1_5' title="bbox 49 471 218 490; baseline 0.006 -1"><span class='ocrx_word' id='word_1_9' title='bbox 49 471 218 490; x_wconf 47' lang='lat' dir='ltr'>“umnazzz-„z-arw*</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
